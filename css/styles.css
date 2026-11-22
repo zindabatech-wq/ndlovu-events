@@ -11276,3 +11276,20 @@ footer .text-primary{
     font-weight: 600;
     padding: 14px;
 }
+
+
+/* Navbar Company Logo */
+.navbar-logo {
+    width: 42px;
+    height: 42px;
+    object-fit: contain;
+    border-radius: 50%;
+    background: transparent;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: 18px;
+}
