@@ -11280,10 +11280,10 @@ footer .text-primary{
 
 /* Navbar Company Logo */
 .navbar-logo {
-    width: 42px;
-    height: 42px;
+    width: 22px;
+    height: 22px;
     object-fit: contain;
-    border-radius: 50%;
+    border-radius: 40%;
     background: transparent;
 }
 
